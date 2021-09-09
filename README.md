@@ -10,5 +10,6 @@ Put some users in the users.txt file, they can be random user names of anyone.
 Now run the disable.py using the terminal, for example: python disable.py.
 When you are ready just press enter as prompted to and it should start saying Username#1336 Added!.
 After about 2-4 accounts, you should be locked out of the account/disabled. !
+
 Legality
 The following was made for educational purposes and to help others understand Discord's API more, I do not promote the usage of my tools on others and I am not responsible for any damages done to you or others with my tools. If you wish to use responsibly, remaster the project into something more positive.
