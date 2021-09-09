@@ -9,6 +9,6 @@ It sends friend requests to people through requests and after about 2 friend req
 4. Now run the **disable.py** using the terminal, for example: **python disable.py**.
 5. When you are ready just press enter as prompted to and it should start saying **Username#1336 Added!**.
 6. After about 2-4 accounts, you should be locked out of the account/disabled.
-![Image](/Images/1.png)
+!
 ### Legality
 The following was made for educational purposes and to help others understand Discord's API more, I do not promote the usage of my tools on others and I am not responsible for any damages done to you or others with my tools. If you wish to use responsibly, remaster the project into something more positive.
